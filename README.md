@@ -1,3 +1,5 @@
+
+<centre>
 # 💫 About Me:
 😍 Hi... I am Sidharth (Call Me Sidhu)<br>😎 Techie, Coder<br>😇 Currently focusing :- Web / Mobile App Development<br>
 
@@ -19,5 +21,4 @@
   ## 💰 You can help me by sponsoring
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/callmesidhu) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <center/>
