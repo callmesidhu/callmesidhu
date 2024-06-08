@@ -19,7 +19,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=callmesidhu&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sidharthsubhash) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/callmesidhu) 
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/callmesidhu) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
