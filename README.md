@@ -22,5 +22,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=callmesidhu&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
   ## 💰 You can help me by sponsoring
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/callmesidhu) 
-
+ [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M1Z2S9Q)
