@@ -14,11 +14,12 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=callmesidhu&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=callmesidhu&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=callmesidhu&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=callmesidhu&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=callmesidhu&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
   ## 💰 You can help me by sponsoring
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/callmesidhu) 
