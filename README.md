@@ -10,7 +10,7 @@
 
 
 # 💻 Tech Stack:
-<table><tr><td valign="top" width="33%">
+<table><td valign="top" width="33%">
 
 <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="75" /></a>  
@@ -54,7 +54,7 @@
 </div>
 
 </td>
-</tr></table>  
+</table>  
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=callmesidhu&theme=radical&hide_border=false)<br/>
