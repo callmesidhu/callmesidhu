@@ -33,11 +33,11 @@
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/reactnative-mobile-chat-app.appspot.com/o/Github%20icons%2Fnodejs.png?alt=media&token=5f202ed7-5546-48ec-8578-339d4e78553f" alt="Node.js" height="75" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="75" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="75" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="75" /></a>
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/reactnative-mobile-chat-app.appspot.com/o/Github%20icons%2Fex.png?alt=media&token=a697fad5-0606-4e80-a759-219aa180a76c" alt="Express.js" height="75" /></a>
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="75" /></a>  
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/reactnative-mobile-chat-app.appspot.com/o/Github%20icons%2Fflask.png?alt=media&token=994d6ec2-71b4-43ab-8129-d9887577efdc" alt="Flask" height="75" /></a>  
 </div>
@@ -49,8 +49,8 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="75" /></a>  
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="75" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="75" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="75" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="75" /></a>  
+<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/reactnative-mobile-chat-app.appspot.com/o/Github%20icons%2Fresberry.png?alt=media&token=e2f65801-209f-4e7a-8287-e087ff628199" alt="Raspberry Pi" height="75" /></a>  
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/reactnative-mobile-chat-app.appspot.com/o/Github%20icons%2Fpowerbi.png?alt=media&token=935e59d6-3913-4f9a-b688-5cea1342a923" alt="Power Bi" height="75" /></a>  
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="75" /></a>  
 </div>
 
