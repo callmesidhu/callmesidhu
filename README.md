@@ -6,7 +6,20 @@
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/callmesidhu__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/callmesidhu/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/callmesidhu__) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@callmesidhuyt) 
+<div align="center">
+  <a href="https://instagram.com/callmesidhu__" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/callmesidhu/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+    <a href="https://youtube.com/@callmesidhuyt" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" />
+  <a href="https://x.com/callmesidhu__" target="_blank">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" />
+  </a>
+  </a>
+</div>
 
 
 # 💻 Tech Stack:
@@ -57,21 +70,30 @@
 </td>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=callmesidhu&theme=radical&hide_border=false)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=callmesidhu&theme=radical)
-<br/>
-
-
+## 📊 GitHub Stats:
+<div align='center'>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=callmesidhu&theme=radical&hide_border=true" />
+  <br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=callmesidhu&theme=radical&hide_border=true" />
+</div>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=callmesidhu&limit=5&theme=radical&combine_all_yearly_contributions=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=callmesidhu&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=callmesidhu&theme=radical)
+<div align="center">
+  <div style="display: flex; justify-content: center;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=callmesidhu&theme=radical&hide_border=true" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=callmesidhu&theme=radical&hide_border=true" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmesidhu&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=callmesidhu&theme=radical&hide_border=true" />
+    <img src="https://github-contributor-stats.vercel.app/api?username=callmesidhu&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true" />
+  </div>
+</div>
 
-  ## 💰 You can help me by sponsoring
- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M1Z2S9Q)
+## 💰 You can help me by sponsoring
+<div >
+  <a href="https://ko-fi.com/M4M1Z2S9Q"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Sponsor me on Ko-fi" /></a>
+</div>
 
 
 
- 
