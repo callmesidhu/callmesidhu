@@ -74,7 +74,7 @@
 <div align='center'>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=callmesidhu&theme=radical&hide_border=true" />
   <br/>
-  <div style="display: flex; justify-content:center;">
+  <div style="display: flex; justify-content:center; align-items: center;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=callmesidhu&theme=radical&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmesidhu&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
   </div>
