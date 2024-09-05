@@ -74,7 +74,10 @@
 <div align='center'>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=callmesidhu&theme=radical&hide_border=true" />
   <br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=callmesidhu&theme=radical&hide_border=true" />
+  <div style="display: flex; justify-content:center;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=callmesidhu&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmesidhu&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  </div>
 </div>
 
 ### 🔝 Top Contributed Repo
@@ -84,7 +87,6 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=callmesidhu&theme=radical&hide_border=true" />
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmesidhu&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=callmesidhu&theme=radical&hide_border=true" />
     <img src="https://github-contributor-stats.vercel.app/api?username=callmesidhu&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true" />
   </div>
