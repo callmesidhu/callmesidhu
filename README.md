@@ -49,13 +49,13 @@
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/reactnative-mobile-chat-app.appspot.com/o/Github%20icons%2Fnodejs.png?alt=media&token=5f202ed7-5546-48ec-8578-339d4e78553f" alt="Node.js" height="75" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="75" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg](https://firebasestorage.googleapis.com/v0/b/reactnative-mobile-chat-app.appspot.com/o/Github%20icons%2FMysql.png?alt=media&token=9f68a2d2-d138-484e-b127-26351aedb973" alt="MySQL" height="75" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/reactnative-mobile-chat-app.appspot.com/o/Github%20icons%2FMysql.png?alt=media&token=9f68a2d2-d138-484e-b127-26351aedb973" alt="MySQL" height="75" /></a>
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="75" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/reactnative-mobile-chat-app.appspot.com/o/Github%20icons%2Fex.png?alt=media&token=a697fad5-0606-4e80-a759-219aa180a76c" alt="Express.js" height="75" /></a>
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="75" /></a>
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/reactnative-mobile-chat-app.appspot.com/o/Github%20icons%2Fflask.png?alt=media&token=994d6ec2-71b4-43ab-8129-d9887577efdc" alt="Flask" height="75" /></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/reactnative-mobile-chat-app.appspot.com/o/Github%20icons%2Fdjango.png?alt=media&token=9e328608-86eb-49ce-ac1b-f23bd5ed4d26" alt"django" height="75"/></a>
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/reactnative-mobile-chat-app.appspot.com/o/Github%20icons%2Flaravel.png?alt=media&token=59fbc19b-792f-4226-be83-fe745a28e87c" alt="Laravel" height="75"/></a>
+<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/reactnative-mobile-chat-app.appspot.com/o/Github%20icons%2Flaravel.png?alt=media&token=cbd2a396-64dd-4cb2-a78d-5835663ef5d7" alt="Laravel" height="75"/></a>
 </div>
 
 </td><td valign="top" width="33%">
