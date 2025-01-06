@@ -89,11 +89,6 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=callmesidhu&theme=radical&hide_border=true" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=callmesidhu&theme=radical&hide_border=true" />
   </div>
-<div align="center">
-  <a href="https://github.com/callmesidhu?tab=repositories">
-    <img src="https://nirzak-streak-stats.vercel.app?user=callmesidhu&theme=github-dark&excludeDaysLabel=EB5454" alt="GitHub Streak" width="100%">
-  </a>
-</div>
 
 ## 💰 You can help me by sponsoring
 
