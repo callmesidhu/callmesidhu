@@ -89,16 +89,14 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=callmesidhu&theme=radical&hide_border=true" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=callmesidhu&theme=radical&hide_border=true" />
   </div>
-  <div>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=callmesidhu&theme=radical&hide_border=true" />
-    <img src="https://github-contributor-stats.vercel.app/api?username=callmesidhu&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true" />
-  </div>
+<div align="center">
+  <a href="https://github.com/callmesidhu?tab=repositories">
+    <img src="https://nirzak-streak-stats.vercel.app?user=callmesidhu&theme=github-dark&excludeDaysLabel=EB5454" alt="GitHub Streak" width="100%">
+  </a>
 </div>
 
 ## 💰 You can help me by sponsoring
-<div >
-  <a href="https://ko-fi.com/M4M1Z2S9Q"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Sponsor me on Ko-fi" /></a>
-</div>
+
 
 
 
