@@ -75,7 +75,7 @@
 
 ## 📊 GitHub Stats:
 <div align='center'>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=callmesidhu&theme=radical&hide_border=true" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=callmesidhu&theme=github-dark&border_radius=10&card_width=800&card_height=300)](https://git.io/streak-stats)
   <br/>
   <div style="display: flex; justify-content:center; align-items: center;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=callmesidhu&theme=radical&hide_border=true" />
