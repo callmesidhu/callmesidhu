@@ -79,7 +79,7 @@
   
   <!-- GitHub Streak -->
   <a href="">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=callmesidhu&theme=github-dark" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=callmesidhu&theme=hacker" alt="GitHub Streak" />
   </a>
   <br/>
   <div style="display: flex; justify-content:center; align-items: center;">
