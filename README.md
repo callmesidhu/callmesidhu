@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-😍 Hi... I am Sidharth (Call Me Sidhu)<br>😎 Techie, Coder<br>😇 Currently focusing :- Web / Mobile App Development<br>
+😍 Hi... I am Sidharth (Call Me Sidhu)<br>😎 Techie, Coder<br>😇 Currently Learning : DSA and ML technologies<br>
 
 
 ## 🌐 Socials:
