@@ -1,104 +1,65 @@
-
-
 # 💫 About Me:
-😍 Hi... I am Sidharth (Call Me Sidhu)<br>😎 Techie, Coder<br>😇 Currently Learning : DSA and ML technologies<br>
 
+😍 **Hi... I am Sidharth (Call Me Sidhu)**
+[cite_start]🚀 **Founder & CEO at XyphX** [cite: 1, 20]
+[cite_start]💻 **Full Stack Web & App Developer** with a passion for **AI & ML** [cite: 1, 10]
+[cite_start]🏆 **Hackathon Winner** & Active Open Source Contributor [cite: 11, 73]
+[cite_start]😇 **Currently Learning**: Deepening my expertise in **DSA** and **ML technologies** [cite: 12]
+
+---
 
 ## 🌐 Socials:
 
 <div align="center">
-  <a href="https://instagram.com/callmesidhu__" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
   <a href="https://www.linkedin.com/in/callmesidhu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-    <a href="https://youtube.com/@callmesidhuyt" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" />
+  <a href="https://github.com/callmesidhu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+  </a>
   <a href="https://x.com/callmesidhu__" target="_blank">
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" />
   </a>
+  <a href="https://callmesidhu.xyphx.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF4B4B?logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
+---
 
-# 💻 Tech Stack:
-<td valign="top" width="33%">
+## 💻 Tech Stack:
 
-<div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="75" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="75" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="75" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="75" /></a>  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="75" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="75" /></a>  
-</div>
+### 🛠 Languages & Core
+[cite_start]`JavaScript` `TypeScript` `Python` `Go` `Rust` `C` `C++` `Java` `PHP` `Dart` [cite: 14]
 
-</td><td valign="top" width="33%">
+### 🌐 Frontend & Mobile
+[cite_start]`React` `Next.js` `Vue` `Nuxt` `SvelteKit` `Flutter` `React Native` `Tailwind CSS` [cite: 15]
 
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="75" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="75" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/reactnative-mobile-chat-app.appspot.com/o/Github%20icons%2Fnodejs.png?alt=media&token=5f202ed7-5546-48ec-8578-339d4e78553f" alt="Node.js" height="75" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="75" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/reactnative-mobile-chat-app.appspot.com/o/Github%20icons%2FMysql.png?alt=media&token=9f68a2d2-d138-484e-b127-26351aedb973" alt="MySQL" height="75" /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="75" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/reactnative-mobile-chat-app.appspot.com/o/Github%20icons%2Fex.png?alt=media&token=a697fad5-0606-4e80-a759-219aa180a76c" alt="Express.js" height="75" /></a>
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="75" /></a>
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/reactnative-mobile-chat-app.appspot.com/o/Github%20icons%2Fflask.png?alt=media&token=994d6ec2-71b4-43ab-8129-d9887577efdc" alt="Flask" height="75" /></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/reactnative-mobile-chat-app.appspot.com/o/Github%20icons%2Fdjango.png?alt=media&token=9e328608-86eb-49ce-ac1b-f23bd5ed4d26" alt"django" height="75"/></a>
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/reactnative-mobile-chat-app.appspot.com/o/Github%20icons%2Flaravel.png?alt=media&token=cbd2a396-64dd-4cb2-a78d-5835663ef5d7" alt="Laravel" height="75"/></a>
-</div>
+### ⚙️ Backend & Databases
+[cite_start]`Go Fiber` `Node.js` `NestJS` `Fastify` `Django` `FastAPI` `Flask` `Laravel` `Spring Boot` [cite: 16]
+[cite_start]`PostgreSQL` `MongoDB` `MySQL` `Firebase` `Supabase` [cite: 16, 17]
 
-</td><td valign="top" width="33%">
+### 🚀 Cloud, DevOps & Tools
+[cite_start]`Docker` `Kubernetes` `AWS` `CI/CD Pipelines` `n8n` `Figma` `Power BI` [cite: 17]
+[cite_start]`Linux` `Arduino` `Raspberry Pi` [cite: 55, 56]
 
-<div align="center">  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="75" /></a>  
-  <a href="https://www.docker.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="75" />
-</a>
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="75" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="75" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="75" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/reactnative-mobile-chat-app.appspot.com/o/Github%20icons%2Fresberry.png?alt=media&token=e2f65801-209f-4e7a-8287-e087ff628199" alt="Raspberry Pi" height="75" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/reactnative-mobile-chat-app.appspot.com/o/Github%20icons%2Fpowerbi.png?alt=media&token=935e59d6-3913-4f9a-b688-5cea1342a923" alt="Power Bi" height="75" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="75" /></a>  
-</div>
-
-</td>
-
+---
 
 ## 📊 GitHub Stats:
+
 <div align='center'>
-  
-  
-  <!-- GitHub Streak -->
-  <a href="">
+  <a href="https://github.com/callmesidhu">
     <img src="https://nirzak-streak-stats.vercel.app/?user=callmesidhu&theme=radical&card_width=500" alt="GitHub Streak" />
   </a>
   <br/>
   <div style="display: flex; justify-content:center; align-items: center;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=callmesidhu&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmesidhu&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=callmesidhu&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmesidhu&theme=radical&hide_border=true&include_all_commits=true&layout=compact" />
   </div>
 </div>
 
-### 🔝 Top Contributed Repo
-<div align="center">
-  <div style="display: flex; justify-content: center;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=callmesidhu&theme=radical&hide_border=true" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=callmesidhu&theme=radical&hide_border=true" />
-  </div>
-
-## 💰 You can help me by sponsoring
-
-
-
-
+### 🔝 Achievements
+* [cite_start]🚀 **3,000+** GitHub Contributions [cite: 11, 69]
+* [cite_start]🛠 **100+** Multi-stack Projects Delivered [cite: 11, 69]
+* [cite_start]🥇 **1st Prize**: Satwa National Hackathon (2026) [cite: 58, 73]
+* [cite_start]🥈 **1st Runner Up**: Coderecet x Armada Hackathon (2026) [cite: 53, 73]
