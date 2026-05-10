@@ -94,32 +94,32 @@
 
 ---
 
+
+# 🔥 Developer Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=callmesidhu&theme=github_dark" />
+
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/callmesidhu/callmesidhu/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+---
+
 # 🏆 GitHub Trophies
 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=callmesidhu&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-
-</div>
-
----
-
-# 🔝 Top Contributed Repo
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=callmesidhu&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-
-</div>
-
----
-
-
-# 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=callmesidhu&label=Profile%20Views&color=blueviolet&style=flat" />
 
 </div>
 
